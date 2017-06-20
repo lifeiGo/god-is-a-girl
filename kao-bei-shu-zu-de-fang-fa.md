@@ -30,5 +30,13 @@ arr[length] = 3
 
 ###### 尽量的是少用eval因为他打开了太多的漏洞
 
+###### 在function中把定义的参数放在最后
+
+```
+function handleThings(name, opts = {}) {
+  // ...
+}
+```
+
 
 
