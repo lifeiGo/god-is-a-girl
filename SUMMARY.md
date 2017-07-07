@@ -8,4 +8,5 @@
 * [git技术](gitji-zhu.md)
   * [删除](gitji-zhu/shan-chu.md)
 * [拷贝数组的方法](kao-bei-shu-zu-de-fang-fa.md)
+* [JS的跨域原理](jsde-kua-yu-yuan-li.md)
 
